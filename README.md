@@ -20,7 +20,7 @@
 >
 > 目前正在参与简律纯的水系骰子开发中。~~如果能帮得上忙就好了~~
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="40%">
 <p align="right">
 
 ### 📕My Statistics :
