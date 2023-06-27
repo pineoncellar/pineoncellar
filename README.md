@@ -3,7 +3,7 @@
 
 > 你好！我是一名自动化专业的学生，很高兴认识你。
 
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="60%">
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="50%">
 
 - ♟️ TRPG
 
@@ -20,7 +20,7 @@
 >
 > 目前正在参与简律纯的水系骰子开发中。~~如果能帮得上忙就好了~~
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="45%">
 <p align="right">
 
 ### 📕My Statistics :
