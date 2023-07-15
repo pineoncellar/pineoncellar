@@ -18,7 +18,7 @@
 
 > 我主要混迹于[Dice!论坛](https://forum.kokona.tech/u/djsds)，其他的骰系只有小小地冒过头，没有太多了解
 >
-> 目前正在参与[简律纯](https://github.com/HsiangNianian)的水系骰子开发中。~~如果能帮得上忙就好了~~
+> 目前正在machine learning的学习中。~~如果能给[iamai](https://github.com/retrofor/iamai)帮得上忙就好了~~
 
 </td><td valign="top" width="45%">
 <p align="right">
