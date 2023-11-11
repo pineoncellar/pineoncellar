@@ -9,16 +9,15 @@
 
 > 我喜欢跑团，接触最多的是《克苏鲁的呼唤》规则。无论是作为调查员或守秘人，大家一起编织只属于我们的故事是一种非常不错的体验。
 > ~~现在处于跑团懒散期~~ 
-  
+
 - 💻 Code
 
-> 我平时接触的语言不少 ~~都是在各骰系学的(~~，但只有C语言一门经过了系统的学习与测验，Python,js,lua等只有一根脚趾头入门的程度，还在学习当中。
+> 虽然只有c语言一门经过了系统的学习，不过很多语言我都有一点实战经验，包括但不限于cpp, python, nodejs, etc 但我要学的也还有很多，我也喜欢学习编程，用一行行代码去实现一项目标是一件很酷的事！
 
 - 🎲 Dice
 
-> 我主要混迹于[Dice!论坛](https://forum.kokona.tech/u/djsds)，其他的骰系只有小小地冒过头，没有太多了解
->
-> 目前正在machine learning的学习中。~~如果能给[iamai](https://github.com/retrofor/iamai)帮得上忙就好了~~
+> 我常混迹于[Dice!论坛](https://forum.kokona.tech/u/djsds)，不过也许可以算是水系开发组的一员(？
+
 
 </td><td valign="top" width="45%">
 <p align="right">
