@@ -16,7 +16,7 @@
 
 - 🎲 Dice
 
-> 我常混迹于[Dice!论坛](https://forum.kokona.tech/u/djsds)，不过也许可以算是水系开发组的一员(？
+> 我常混迹于[Dice!论坛](https://forum.kokona.tech/u/djsds)，不过也许可以算是水系的一员(？
 
 - 📷 SLAM
 
