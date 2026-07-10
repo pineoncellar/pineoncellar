@@ -5,22 +5,19 @@
 
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="50%">
 
-- ♟️ TRPG
+- 🤖 Research
 
-> 我喜欢跑团，接触最多的是《克苏鲁的呼唤》规则。无论是作为调查员或守秘人，大家一起编织只属于我们的故事是一种非常不错的体验。
-> ~~现在处于跑团懒散期~~
+> 目前的研究方向主要聚焦在具身智能这个大方向上。对多模态大模型（LLM/VLM）与机器人感知、控制的结合有着极为浓厚的兴趣。
+> 在 ROS 2 框架下折腾过不少系统级工程和算法落地，乐于探索前沿技术在实际场景中的延伸。
 
 - 💻 Code
 
-> 我是个只会写一点点py的小白，要学的还有很多，我也喜欢学习编程，用一行行代码去实现一项目标是一件很酷的事！
+> 常用 Python 作为主要生产力工具，偶尔也跟 C++ 底层控制死磕。我要学的东西还有很多，但我始终觉得，用一行行代码去实现一个功能是一件很酷的事！
 
 - 🎲 Dice
 
 > 我常混迹于[Dice!论坛](https://forum.kokona.tech/u/djsds)，不过也许可以算是水系的一员(？
-
-- ⚖️ Keeper
-> 我正在开发一个基于多代理与持久化状态的 [AI COC7版规则跑团守密人系统](https://github.com/pineoncellar/glyphkeeper)，如果你有任何建议，欢迎联系我！
-
+> 我喜欢跑团，正在开发一个基于多代理（Multi-Agent）与持久化状态的[AI COC7版规则跑团守密人系统](https://github.com/pineoncellar/glyphkeeper)，如果你有任何建议，欢迎联系我！
 
 </td><td valign="top" width="45%">
 <p align="right">
