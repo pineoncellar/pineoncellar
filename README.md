@@ -8,6 +8,7 @@
 - 🤖 Research
 
 > 目前的研究方向主要聚焦在具身智能这个大方向上。对多模态大模型（LLM/VLM）与机器人感知、控制的结合有着极为浓厚的兴趣。
+> 
 > 在 ROS 2 框架下折腾过不少系统级工程和算法落地，乐于探索前沿技术在实际场景中的延伸。
 
 - 💻 Code
@@ -17,6 +18,7 @@
 - 🎲 Dice
 
 > 我常混迹于[Dice!论坛](https://forum.kokona.tech/u/djsds)，不过也许可以算是水系的一员(？
+> 
 > 我喜欢跑团，正在开发一个基于多代理（Multi-Agent）与持久化状态的[AI COC7版规则跑团守密人系统](https://github.com/pineoncellar/glyphkeeper)，如果你有任何建议，欢迎联系我！
 
 </td><td valign="top" width="45%">
