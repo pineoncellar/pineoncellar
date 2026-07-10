@@ -19,7 +19,7 @@
 
 > 我常混迹于[Dice!论坛](https://forum.kokona.tech/u/djsds)，不过也许可以算是水系的一员(？
 > 
-> 我喜欢跑团，正在开发一个基于多代理（Multi-Agent）与持久化状态的[AI COC7版规则跑团守密人系统](https://github.com/pineoncellar/glyphkeeper)，如果你有任何建议，欢迎联系我！
+> 我喜欢跑团，正在开发一个基于 LangGraph 图编排与事件溯源的 [AI COC7版规则跑团守密人系统](https://github.com/pineoncellar/glyphkeeper)，如果你有任何建议，欢迎联系我！
 
 </td><td valign="top" width="45%">
 <p align="right">
